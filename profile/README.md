@@ -11,7 +11,7 @@ A Mod Loader for Spirit City: Lofi Sessions
 Spirit Launcher will be released soon! More information will be sent out as it comes out.
 
 > [!WARNING]  
-> All features that uses Online (Spotify, Multiplayer) require a Steam Account **WITH SPIRIT CITY.** Backup or 🏴‍☠️ Copies will not work.
+> All features that uses Online (Spotify, Multiplayer) require a Steam Account **WITH SPIRIT CITY.** _Backup_ or _"Arrr!"_ Copies will not work.
 ------------
 <img src="https://mooncubegames.com/wp-content/uploads/2024/01/HeaderCapsule.png" alt="Logo for Spirit City: Lofi Sessions">
 <b>Get Spirit City: Lofi Sessions Now on Steam!</b> https://store.steampowered.com/app/2113850/
